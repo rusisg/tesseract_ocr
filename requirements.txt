@@ -1,0 +1,15 @@
+streamlit
+
+
+paddleocr
+
+transformers
+
+torch
+torchvision
+torchio
+
+opencv-python-headless
+Pillow
+
+pymupdf
