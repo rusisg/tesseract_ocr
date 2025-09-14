@@ -1,15 +1,27 @@
 streamlit
 
-
-paddleocr
-
 transformers
 
 torch
 torchvision
-torchio
+
+paddlepaddle
+
+paddleocr
+
+pymupdf
+
+pandas
+
+openpyxl
 
 opencv-python-headless
 Pillow
 
-pymupdf
+sentencepiece
+accelerate
+einops
+
+transformers[torch]
+
+bitsandbytes
